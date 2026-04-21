@@ -1,4 +1,4 @@
-# 🐄 Cattle Breed Identifier
+# 🐄 Cattle Breed Recognizer
 
 An AI-powered web application that identifies cattle breeds from images using deep learning.  
 This project helps farmers, researchers, and agricultural experts classify cattle breeds easily and accurately.
